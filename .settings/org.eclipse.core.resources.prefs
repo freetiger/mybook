@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//src/books/admin.py=utf-8
+encoding//src/books/models.py=utf-8
+encoding//src/books/templatetags/filters_extras.py=utf-8
+encoding//src/books/templatetags/tags_extras.py=utf-8
+encoding//src/books/urls.py=utf-8
+encoding//src/books/views.py=utf-8
+encoding//src/contact/forms.py=utf-8
+encoding//src/contact/views.py=utf-8
+encoding//src/mybook/settings_production.py=utf-8
+encoding//src/mybook/views.py=utf-8
